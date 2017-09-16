@@ -4,10 +4,10 @@
 // selects the database, and sets the encoding.
 
 // Set the database access information as constants:
-DEFINE ('DB_USER', 'root');
-DEFINE ('DB_PASSWORD', 'crashyt90');
-DEFINE ('DB_HOST', 'localhost');
-DEFINE ('DB_NAME', 'small_library_system');
+DEFINE ('DB_USER', '');
+DEFINE ('DB_PASSWORD', '');
+DEFINE ('DB_HOST', '');
+DEFINE ('DB_NAME', '');
 
 
 
