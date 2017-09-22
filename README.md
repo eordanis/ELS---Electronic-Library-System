@@ -4,7 +4,7 @@
 *****
 ELS - Electronic Library System with multi user login
 *****
-Read the PHP and CSS files to view:
+Read the PHP , SQL and CSS files to view:
 *****
 -list of styling code
 *****
